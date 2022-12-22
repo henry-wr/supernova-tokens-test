@@ -1,0 +1,22 @@
+{
+  "name": "supernova-tokens-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry-wr/supernova-tokens-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henry-wr/supernova-tokens-test/issues"
+  },
+  "homepage": "https://github.com/henry-wr/supernova-tokens-test#readme",
+  "devDependencies": {
+    "@supernovaio/supernova-sdk": "^1.8.36"
+  }
+}

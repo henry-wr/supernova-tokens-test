@@ -1,0 +1,16 @@
+{
+  "color": {
+    "color-grey-500": {
+      "$value": "#7d8997ff",
+      "$type": "color",
+      "$extensions": {
+        "org.supernova-io": {
+          "id": "289c19a1-8265-11ed-b58f-e5400cc1c84d",
+          "metadata": {
+            "tokenSet": "token-set-core"
+          }
+        }
+      }
+    }
+  }
+}

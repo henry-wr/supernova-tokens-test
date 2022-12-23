@@ -13,7 +13,7 @@
       }
     },
     "grey-300": {
-      "$value": "#ffffffff",
+      "$value": "#818181ff",
       "$type": "color",
       "$extensions": {
         "org.supernova-io": {
